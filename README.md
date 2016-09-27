@@ -4,7 +4,11 @@
 of the [Geodesy functions](https://github.com/chrisveness/geodesy) project - provides a comprehensive set of extension methods to the `BasicGeoposition` struct that
 make working with GPS locations and performing calculations on then simple and easy.
 
-(For a more general introduction, see: [Movable Type Scripts Latitude / Longitude Calculations Reference](http://www.movable-type.co.uk/scripts/latlong.html))
+(For 
+a 
+more 
+general 
+introduction, see: [Movable Type Scripts Latitude / Longitude Calculations Reference](http://www.movable-type.co.uk/scripts/latlong.html))
 
 #### Status
 
