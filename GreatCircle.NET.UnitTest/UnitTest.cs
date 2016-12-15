@@ -5,6 +5,9 @@ using static System.Math;
 
 namespace GreatCircle.NET.UnitTest
 {
+    /// <summary>
+    /// UnitTests for GreatCircle.NET
+    /// </summary>
     [TestClass]
     public class UnitTest
     {
@@ -280,7 +283,7 @@ namespace GreatCircle.NET.UnitTest
             Assert.IsTrue(CompareToDecimalPlaces(distanceB, halfDistanceEiffelTowerToVersailles, 8));
             Assert.IsTrue(CompareToDecimalPlaces(midpointA.Latitude, midpointB.Latitude, 8));
             Assert.IsTrue(CompareToDecimalPlaces(midpointA.Longitude, midpointB.Longitude, 8));
-    }
+        }
 
         // Test intersection.
         [TestMethod]

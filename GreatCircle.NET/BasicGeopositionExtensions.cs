@@ -181,7 +181,6 @@ namespace GreatCircle.NET
             return false;
         }
 
-
         /// <summary>
         /// Calculates the distance (in meters) between this position and the other position.
         /// </summary>
