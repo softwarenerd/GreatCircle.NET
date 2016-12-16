@@ -211,7 +211,6 @@ namespace GreatCircle.NET.UnitTest
             Assert.AreEqual(bearing, FINAL_BEARING_VERSAILLES_TO_EIFFEL_TOWER);
         }
 
-
         // Tests generating a location for Versailles based on bearing and distance.
         [TestMethod]
         public void testGenerateLocationVersailles()
